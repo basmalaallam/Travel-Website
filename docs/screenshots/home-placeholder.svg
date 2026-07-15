@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Home page screenshot placeholder</title>
+  <desc id="desc">Placeholder for a Destinations home page screenshot.</desc>
+  <rect width="800" height="450" fill="#f3f4f6"/>
+  <rect x="36" y="36" width="728" height="378" rx="16" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <path d="M36 112h728" stroke="#d1d5db" stroke-width="2"/>
+  <circle cx="72" cy="74" r="10" fill="#ef4444"/><circle cx="104" cy="74" r="10" fill="#f59e0b"/><circle cx="136" cy="74" r="10" fill="#22c55e"/>
+  <text x="400" y="230" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="28" font-weight="700">Add a home page screenshot</text>
+  <text x="400" y="270" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="18">docs/screenshots/home.png</text>
+</svg>
