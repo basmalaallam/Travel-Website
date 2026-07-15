@@ -9,7 +9,7 @@
 
 ## Demo
 
-[Watch the project demo (MP4)](docs/demo.mp4)
+[Watch the project demo on Google Drive](https://drive.google.com/file/d/11qSxaOH14ZKdvi0Yla4R22rPwNP-fCx1/view?usp=sharing)
 
 ## Features
 
@@ -23,7 +23,6 @@
 ```text
 .
 ├── docs/
-│   ├── demo.mp4                # Recorded application walkthrough
 │   └── PROJECT_STRUCTURE.md    # Integration and organization notes
 ├── public/                     # Images served as static assets
 ├── views/                      # EJS templates

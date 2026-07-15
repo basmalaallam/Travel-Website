@@ -10,7 +10,7 @@ This repository contains the presentation layer for a travel discovery experienc
 | --- | --- |
 | `views/` | EJS templates rendered by the host server. |
 | `public/` | Static travel and background images referenced by the templates. |
-| `docs/demo.mp4` | Recorded application walkthrough linked from the README. |
+| README demo link | Public Google Drive walkthrough of the application. |
 
 ## Integration requirements
 
@@ -25,4 +25,4 @@ The supplied templates deliberately contain no application server, package manif
 
 ## Demo guidance
 
-The repository includes a recorded MP4 walkthrough at `docs/demo.mp4`. If the demo is replaced, keep the filename and link stable, optimize the video before committing it, and ensure it does not expose personal data or credentials.
+The README links to the public Google Drive walkthrough supplied for this project. If the demo is replaced, update that link and ensure the shared file does not expose personal data or credentials.
