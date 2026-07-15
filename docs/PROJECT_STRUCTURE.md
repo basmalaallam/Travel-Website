@@ -10,7 +10,7 @@ This repository contains the presentation layer for a travel discovery experienc
 | --- | --- |
 | `views/` | EJS templates rendered by the host server. |
 | `public/` | Static travel and background images referenced by the templates. |
-| `docs/screenshots/` | Documentation-only screenshots and README placeholders. |
+| `docs/demo.mp4` | Recorded application walkthrough linked from the README. |
 
 ## Integration requirements
 
@@ -23,14 +23,6 @@ The host application is responsible for:
 
 The supplied templates deliberately contain no application server, package manifest, database configuration, or credentials. This keeps the bundle portable, but it means the repository cannot be run standalone.
 
-## Screenshot guidance
+## Demo guidance
 
-Use screenshots that show the project running in its intended host application. Store them in `docs/screenshots/` and keep a consistent aspect ratio (for example, 16:9). Avoid including personal data, browser extensions, or local file paths.
-
-Recommended captures:
-
-1. Home/category selection page (`home.png`).
-2. A representative destination detail page (`destination.png`).
-3. Optional: search or want-to-go flow (`search.png`).
-
-Update the README image links when replacing the SVG placeholders.
+The repository includes a recorded MP4 walkthrough at `docs/demo.mp4`. If the demo is replaced, keep the filename and link stable, optimize the video before committing it, and ensure it does not expose personal data or credentials.

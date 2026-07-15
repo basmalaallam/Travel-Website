@@ -7,13 +7,9 @@
 
 > A small, server-rendered travel discovery interface built with EJS templates and Bootstrap. It includes category browsing, destination detail views, search entry points, authentication forms, and a want-to-go list page.
 
-## Preview
+## Demo
 
-| Home | Destination detail |
-| --- | --- |
-| ![Home page screenshot placeholder](docs/screenshots/home-placeholder.svg) | ![Destination detail screenshot placeholder](docs/screenshots/destination-placeholder.svg) |
-
-The placeholders above are tracked so the README renders cleanly before screenshots are available. Replace them with real, consistently sized images at `docs/screenshots/home.png` and `docs/screenshots/destination.png`, then update the image paths in this README.
+[Watch the project demo (MP4)](docs/demo.mp4)
 
 ## Features
 
@@ -27,7 +23,7 @@ The placeholders above are tracked so the README renders cleanly before screensh
 ```text
 .
 ├── docs/
-│   ├── screenshots/            # README screenshots and placeholders
+│   ├── demo.mp4                # Recorded application walkthrough
 │   └── PROJECT_STRUCTURE.md    # Integration and organization notes
 ├── public/                     # Images served as static assets
 ├── views/                      # EJS templates
@@ -66,7 +62,7 @@ See [project structure and integration notes](docs/PROJECT_STRUCTURE.md) for the
 
 ## Contributing
 
-Contributions are welcome. Please keep changes focused, preserve existing route and asset contracts unless intentionally versioned, and include screenshots for visible UI updates.
+Contributions are welcome. Please keep changes focused, preserve existing route and asset contracts unless intentionally versioned, and update the recorded demo when a visible UI change merits it.
 
 ## License
 

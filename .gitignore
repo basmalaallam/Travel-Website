@@ -49,7 +49,3 @@ Desktop.ini
 
 # Superseded import folder; source is organized at the repository root
 /Project Files/
-
-# Screenshots: documentation assets are intentionally tracked
-!docs/screenshots/
-!docs/screenshots/**
