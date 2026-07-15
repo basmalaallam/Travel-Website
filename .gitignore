@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Build and test output
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and IDE state
+.vs/
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sqlite
+*.db
+*.wsuo
+*.vsidx
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archives and local exports
+*.zip
+*.tar
+*.tar.gz
+*.rar
+/Project Description.pdf
+
+# Superseded import folder; source is organized at the repository root
+/Project Files/
+
+# Screenshots: documentation assets are intentionally tracked
+!docs/screenshots/
+!docs/screenshots/**
