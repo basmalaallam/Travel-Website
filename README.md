@@ -1,11 +1,13 @@
-# Destinations
+# Travel Destination Explorer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/basmalaallam/Travel-Website)](https://github.com/basmalaallam/Travel-Website/commits/master)
 [![EJS](https://img.shields.io/badge/templates-EJS-a91e50)](https://ejs.co/)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%204-7952B3)](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
-> A small, server-rendered travel discovery interface built with EJS templates and Bootstrap. It includes category browsing, destination detail views, search entry points, authentication forms, and a want-to-go list page.
+> A server-rendered travel discovery interface built with EJS templates and Bootstrap. It presents curated destination categories and detail views alongside search, authentication, and want-to-go user flows.
+
+This repository showcases a clean Express-compatible presentation layer: reusable EJS views are separated from static assets, while application behavior is intentionally delegated to the host server.
 
 ## Demo
 
@@ -17,6 +19,12 @@
 - Explore destination-specific template pages.
 - Use search, login, registration, and want-to-go list interfaces.
 - Reuse the included image assets from a conventional Express/EJS `public/` directory.
+
+## What this repository demonstrates
+
+- A conventional Express-compatible separation between `views/` and `public/`
+- Clear template coverage for core navigation, discovery, and account-oriented flows
+- A lightweight, portable UI layer that can be integrated into an existing Node.js application
 
 ## Project structure
 
