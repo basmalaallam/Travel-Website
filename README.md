@@ -1,7 +1,7 @@
 # Destinations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/basmalaallam/Travel-Website)](https://github.com/basmalaallam/Travel-Website/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/basmalaallam/Travel-Website)](https://github.com/basmalaallam/Travel-Website/commits/master)
 [![EJS](https://img.shields.io/badge/templates-EJS-a91e50)](https://ejs.co/)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%204-7952B3)](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
